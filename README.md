@@ -5,10 +5,10 @@ A comprehensive 30-day study plan for the Canadian Private Pilot License (PPL) w
 ## 📅 Quick Overview
 
 - **Start Date**: Saturday, January 17, 2026
-- **Video Completion**: Friday, February 13, 2026
-- **Light Review Day**: Saturday, February 14, 2026
+- **Video Completion**: Wednesday, February 11, 2026
+- **Light Review Days**: Thursday-Saturday, February 12-14, 2026
 - **Test Date**: Wednesday, April 2, 2026
-- **Total Study Days**: 28 active study days + 1 light review day
+- **Total Study Days**: 26 active study days + 3 light review days
 - **Built-in Break**: February 15-19, 2026 (5 days off)
 - **Practice Test Period**: February 20 - April 1, 2026 (41 days)
 
@@ -17,8 +17,10 @@ A comprehensive 30-day study plan for the Canadian Private Pilot License (PPL) w
 - **Total Content**: 144 videos + quizzes (including 1.4 Aircraft Performance)
 - **Total Study Time**: 37 hours 41 minutes (video time only)
 - **Quiz Time**: Varies (aim for 100% on all quizzes)
-- **Average Session**: 78 minutes + quiz time
-- **Session Range**: 66-108 minutes per day
+- **Average Session**: 87 minutes + quiz time
+- **Session Range**: 30 minutes - 2h 1m per day
+- **Weekend Sessions**: Heavier (~1h 30m-2h)
+- **Weekday Sessions**: Moderate (~1h 0m-1h 25m)
 - **Practice Test Period**: 41 days (Feb 20 - Apr 1)
 
 ## 📚 Course Content
@@ -40,8 +42,9 @@ The study plan covers all required topics:
 
 ## 🎯 Study Schedule Features
 
-- ✅ Manageable 66-108 minute daily sessions
-- ✅ Complete all videos by February 14th
+- ✅ Balanced sessions: Weekends heavier (1h30-1h45m), Weekdays moderate (1h10-1h25m)
+- ✅ Complete all videos by February 11th
+- ✅ 3 light review days before break (Feb 12-14)
 - ✅ Strategic break period built-in (Feb 15-19)
 - ✅ 41 days dedicated to practice tests
 - ✅ Review & re-watching integrated into practice test responses
@@ -55,7 +58,7 @@ The study plan covers all required topics:
 
 ## 💡 Study Tips
 
-### During Video Study (Jan 17 - Feb 14)
+### During Video Study (Jan 17 - Feb 11)
 1. **Watch videos in full** - the system tracks your progress
 2. **Take quizzes immediately** after each video (marked with ✅)
 3. **Aim for 100%** on all quizzes before moving on
@@ -82,8 +85,8 @@ The study plan covers all required topics:
 ## 📅 Timeline
 
 ```
-Jan 17 - Feb 13    →  Days 1-28: Complete all 144 videos + quizzes
-Feb 14             →  Day 29: Light review day (no new content)
+Jan 17 - Feb 11    →  Days 1-26: Complete all 144 videos + quizzes
+Feb 12 - Feb 14    →  Days 27-29: Light review (no new content, retake quizzes)
 Feb 15 - Feb 19    →  Break period (well-deserved rest!)
 Feb 20 - Feb 28    →  Week 1: Initial assessment (3 practice exams)
 Mar 1 - Mar 14     →  Week 2-3: Intensive practice (exam every 2-3 days)
@@ -94,7 +97,7 @@ Apr 2, 2026        →  TEST DAY! ✈️
 
 ## 🎓 Practice Test Strategy
 
-After completing all videos (Feb 14), you'll have 41 days for intensive practice:
+After completing all videos (Feb 11) and light review days (Feb 12-14), you'll have 41 days for intensive practice:
 
 ### Week 1 (Feb 20-28): Initial Assessment
 - Take 3 practice exams to identify weak areas

@@ -3,8 +3,8 @@
 ## 📅 Schedule Overview
 
 - **Start Date**: Saturday, January 17, 2026
-- **Video Completion**: Saturday, February 14, 2026
-- **Total Study Days**: 29 days (28 study days + 1 light review day)
+- **Video Completion**: Wednesday, February 11, 2026
+- **Total Study Days**: 26 study days + 3 light review days
 - **Break Period**: February 15-19, 2026 (5 days off)
 - **Practice Test Period**: February 20 - April 1, 2026 (41 days)
 - **Test Date**: Wednesday, April 2, 2026
@@ -13,8 +13,10 @@
 
 - **Total Content**: 144 videos + quizzes
 - **Total Time**: 37h 41m (video time only - quiz time varies)
-- **Average Session**: 78 minutes
-- **Session Range**: 66-108 minutes per day
+- **Average Session**: 87 minutes
+- **Session Range**: 30 minutes - 2h 1m per day
+- **Weekends**: Heavier sessions (~1h 30m-2h)
+- **Weekdays**: Moderate sessions (~1h 0m-1h 25m)
 - **Quizzes**: Take quiz after each video (aim for 100%)
 
 ---
@@ -111,7 +113,7 @@
 - 🎥 1.2.11 Video - Stability (7:32)
 - 📝 Quiz: Stability
 
-#### Day 6: Thursday, January 22 — 1h 14m
+#### Day 6 (Round 1): Thursday, January 22 — 30m
 
 - 🎥 1.2.12 Video - Trim Devices (5:26)
 - 📝 Quiz: Trim Devices
@@ -123,29 +125,23 @@
 - 📝 Quiz: Flaps, Slats and Slots
 - 🎥 1.2.16 Video - Control Balancing (2:57)
 - 📝 Quiz: Control Balancing
-- 🎥 1.3.1 Video - Flight Instruments - The Six Pack Part 1 (17:52)
-- 🎥 1.3.2 Video - Flight Instruments - The Six Pack Part 2 (24:52)
 
 
 ### Part 1.3: Flight Instruments
 
-#### Day 7: Friday, January 23 — 1h 17m
+#### Day 6 (Round 2): Thursday, January 22 — 1h 20m
 
+- 🎥 1.3.1 Video - Flight Instruments - The Six Pack Part 1 (17:52)
+- 🎥 1.3.2 Video - Flight Instruments - The Six Pack Part 2 (24:52)
 - 🎥 1.3.3 Video - Flight Instruments - The Six Pack - Part 3 - Pitot Static System (22:27)
 - 🎥 1.3.4 Video - Engine Instruments (4:02)
 - 🎥 1.3.5 Video - Navigation Instruments - Magnetic Compass, GPS, VOR, ADF Overview (10:18)
 - 📝 Quiz: Aircraft Instruments
-- 🎥 1.5.1 Video - Flight Operations - V-Speeds, Flight for Range and Endurance, Stall Speeds (29:47)
-- 📝 Quiz: Flight Operations - V-Speeds, Flight for Range and Endurance, Stall Speeds
-- 🎥 1.5.2 Video - Flight Operations - Ground Effect (4:24)
-- 📝 Quiz: Ground Effect
-- 🎥 1.5.3 Video - Flight Operations - Hydroplaning (4:27)
-- 📝 Quiz: Hydroplaning
 
 
 ### Part 1.4: Aircraft Performance
 
-#### Day 8: Saturday, January 24 — 1h 11m
+#### Day 7: Friday, January 23 — 1h 17m
 
 - 🎥 1.4 Video - Flight Operations: Understanding Aircraft Performance Charts (1:10:35)
 - 📝 Quiz: Aircraft Performance Charts
@@ -153,81 +149,85 @@
 
 ### Part 1.5: Flight Operations
 
-#### Day 9: Sunday, January 25 — 1h 18m
+#### Day 8: Saturday, January 24 — 1h 27m
 
+- 🎥 1.5.1 Video - Flight Operations - V-Speeds, Flight for Range and Endurance, Stall Speeds (29:47)
+- 📝 Quiz: Flight Operations - V-Speeds, Flight for Range and Endurance, Stall Speeds
+- 🎥 1.5.2 Video - Flight Operations - Ground Effect (4:24)
+- 📝 Quiz: Ground Effect
+- 🎥 1.5.3 Video - Flight Operations - Hydroplaning (4:27)
+- 📝 Quiz: Hydroplaning
 - 🎥 1.5.4 Video - Flight Operations - Wheel Barrowing (6:09)
 - 📝 Quiz: Wheel Barrowing
 - 🎥 1.5.5 Video - Flight Operations - Taxiing (19:33)
 - 📝 Quiz: Flight Operations - Taxiing
 - 🎥 1.5.6 Video - Wind Shear (8:08)
 - 🎥 1.5.7 Video - Manoeuvring Speed (VA) (14:30)
+
+
+#### Day 9: Sunday, January 25 — 2h 1m
+
 - 🎥 1.5.8 Video - Density Altitude (28:13)
-
-#### Day 10: Monday, January 26 — 1h 16m
-
 - 🎥 1.5.9 Video - Crosswind Component Limitations (32:20)
 - 🎥 1.5.10 Video: PAPI / VASIS Systems (6:07)
 - 🎥 1.5.11 Video - Spins (36:11)
-
-#### Day 11: Tuesday, January 27 — 1h 19m
-
 - 🎥 1.5.12 Video - What is a spin? The Aggravated Stall. Video Animation (5:19)
 - 📚 1.5.13 Spiral Dives (13:00)
-- 🎥 1.6.1 Video - Weight and Balance (54:44)
-- 📝 Quiz: Weight and Balance
 
 
 ### Part 1.6: Weight and Balance
 
-#### Day 12: Wednesday, January 28 — 1h 24m
+#### Day 10: Monday, January 26 — 1h 20m
 
+- 🎥 1.6.1 Video - Weight and Balance (54:44)
+- 📝 Quiz: Weight and Balance
 - 🎥 1.6.2 Video - Weight and Balance - Cessna 172 (13:57)
 - 🎥 1.6.3 Video - Weight and Balance - Diamond DA 20 (11:53)
+
+
+### Part 1.7: Advanced Flight Operations
+
+#### Day 11: Tuesday, January 27 — 1h 38m
+
 - 🎥 1.7.1 Video - Flight Operations - Wake Turbulence (13:56)
 - 📝 Quiz: Wake Turbulence
 - 🎥 1.7.2 Video - Flight Operations - Aircraft Critical Surface Contamination (14:04)
 - 📝 Quiz: Aircraft Critical Surface Contamination
 - 🎥 1.7.3 Video - When In Doubt - Wing Icing Contamination - Small Aircraft Program (14:38)
 - 🎥 Video - Aircraft Documents - Maintenance Requirements (13:13)
-
-
-### Part 1.7: Advanced Flight Operations
-
-#### Day 13: Thursday, January 29 — 1h 18m
-
 - 🎥 1.7.4 Video - Search and Rescue (SAR) (28:22)
 - 🎥 1.8.1 Video - Human Factors (20:26)
 - 📝 Quiz: Human Factors
-- 📚 1.8.2 Aviation Investigation Report - Incorrect Fuel Type (30:00)
 
 
 ### Part 1.8: Human Factors & Safety
 
-#### Day 14: Friday, January 30 — 1h 22m
+#### Day 12: Wednesday, January 28 — 1h 23m
 
+- 📚 1.8.2 Aviation Investigation Report - Incorrect Fuel Type (30:00)
 - 📚 1.8.3 Aviation Investigation Report - Mid-air Collision (30:00)
-- 📚 1.8.4 Aviation Investigation Report - Loss of Control and Collision with Terrain (30:00)
 - 🎥 1.8.6 Video: Visual Illusions (22:39)
+
+#### Day 13: Thursday, January 29 — 1h 16m
+
+- 📚 1.8.4 Aviation Investigation Report - Loss of Control and Collision with Terrain (30:00)
+- 🎥 2.1b Video - Meteorology Theory - Part 2 of 2 (23:22)
+- 🎥 2.2 Video - Meteorology Theory - Part 3 of 3 (54:59)
 
 
 ### Part 2: Meteorology
 
-#### Day 15: Saturday, January 31 — 1h 18m
+#### Day 14: Friday, January 30 — 1h 8m
 
-- 🎥 2.1b Video - Meteorology Theory - Part 2 of 2 (23:22)
-- 🎥 2.2 Video - Meteorology Theory - Part 3 of 3 (54:59)
 - 📝 Quiz: Meteorology Theory
-
-#### Day 16: Sunday, February 01 — 1h 15m
-
 - 🎥 2.3.1 Video - Part 1 - Meteorology - Aviation Weather Reports and Forecasts (28:23)
 - 🎥 2.3.2 Video - Part 2 - Meteorology - Aviation Weather Reports and Forecasts (18:12)
 - 🎥 2.3.3 Video - Fog vs. Mist on Aviation Weather Reports (4:19)
 - 🎥 2.3.4 Video - Graphical Area Forecasts (GFA) - Overview (24:15)
+
+#### Day 15: Saturday, January 31 — 1h 35m
+
 - 📖 **Reading**: Take Five: Carburetor Icing TP-2228E-38 (5:00)
-
-#### Day 17: Monday, February 02 — 1h 17m
-
 - 🎥 2.3.5 Video - Graphical Area Forecasts (GFA) - Clouds and Weather (17:59)
 - 🎥 2.3.6 Video - Graphical Area Forecasts (GFA) - Icing, Turbulence, and Freezing Level Chart (10:53)
 - 🎥 2.3.7 Video - AIRMETs and SIGMETs (14:03)
@@ -238,7 +238,7 @@
 
 ### Part 3: Navigation
 
-#### Day 18: Tuesday, February 03 — 1h 40m
+#### Day 16: Sunday, February 01 — 1h 40m
 
 - 🎥 3.1.1 Video: Pilot Navigation - Charts, Latitude and Longitude (17:39)
 - 📝 Quiz: Pilot Navigation - Charts, Latitude and Longitude
@@ -246,7 +246,7 @@
 - 📝 Quiz: Pilot Navigation - Charts, Definitions, and Flight Planning Overview
 - 🎥 3.1.3 Video: A Detailed Look at the VNC and VTA Chart Symbols (38:24)
 
-#### Day 19: Wednesday, February 04 — 1h 29m
+#### Day 17: Monday, February 02 — 1h 22m
 
 - 🎥 3.1.4 Video: Map Symbol Mysteries - Chart Frequencies - Part 1 (21:22)
 - 🎥 3.1.5 Video: Map Symbol Mysteries - Control Zones and Control Areas - Part 2 (23:51)
@@ -254,18 +254,21 @@
 - 🎥 3.1.7 Video: Canada Flight Supplement - Overview (6:22)
 - 📚 3.1.8 CFS - Part A General (20:00)
 
-#### Day 20: Thursday, February 05 — 1h 24m
+#### Day 18: Tuesday, February 03 — 1h 24m
 
 - 🎥 3.1.8 Video and Exercise: CFS - Aerodrome Listings (12:10)
 - 📝 Quiz: CFS Aerodrome Listings
 - 🎥 3.1.9 Video: Introduction to NOTAMs (27:00)
 - 📚 Search and Rescue (SAR) - Knowledge and Understanding (45:00)
 
-#### Day 21: Friday, February 06 — 1h 29m
+#### Day 19: Wednesday, February 04 — 1h 0m
 
 - 🎥 3.2.1 Video - Flight Computers and Pre-flight Planning (27:02)
 - 🎥 3.2.2 Video - CX3 Flight Computer - Overview (4:37)
 - 🎥 3.2.2a Video - E6B Flight Computer Exercise Overview CYQR to CYQV (28:31)
+
+#### Day 20: Thursday, February 05 — 1h 25m
+
 - 🎥 3.2.2b Video - E6b Flight Computer - Overview (7:11)
 - 🎥 3.2.2c Video - E6b Examples - Calculate Density Altitude & Find True Airspeed and Calibrated Airspeed (3:24)
 - 🎥 3.2.2d Video - E6b Examples - Calculate Pressure Altitude and then determine Density Altitude (5:04)
@@ -274,9 +277,6 @@
 - 🎥 3.2.2g Video - E6b Examples - Determine True Airspeed and Wind Correction Angle (3:07)
 - 🎥 3.2.2h Video - E6b Examples - Unit Conversions (2:48)
 - 🎥 3.2.2i Video - E6b Examples - Altitude Correction (2:22)
-
-#### Day 22: Saturday, February 07 — 1h 36m
-
 - 🎥 3.2.3c Video: CX3 Flight Computer - How to Calculate Pressure Altitude (1:20)
 - 🎥 3.2.3d Video: CX3 Flight Computer - How to Calculate Calibrated Airspeed (0:56)
 - 🎥 3.2.3e Video: CX3 Flight Computer - How to Calculate True Heading (1:36)
@@ -284,66 +284,70 @@
 - 🎥 3.2.3g Video: CX3 Flight Computer - How to Calculate Fuel Burn (1:07)
 - 📚 3.2.5 Navigation Planning Exercise - Muskoka to Ottawa Carp (18:54)
 - 📚 3.2.9 - Flight Planning Exercise - St. George to Bromont, Quebec (10:00)
+
+#### Day 21: Friday, February 06 — 1h 30m
+
 - 🎥 3.3.1 Video - Flight Planning - VFR Chart Preparation (8:39)
 - 🎥 3.3.2 Video: Double Track Error Method (15:13)
 - 🎥 3.3.3 Video: Understanding the 1-in-60 Rule (5:50)
 - 🎥 3.3.4 Video: Opening and Closing Angles Method (12:29)
 - 🎥 3.3.5 Video: Calculating Return to Departure (5:57)
-
-#### Day 23: Sunday, February 08 — 1h 48m
-
 - 🎥 3.4.1 Video - Navigation - Radio Theory (41:45)
 - 📝 Quiz: Radio Theory
+
+#### Day 22: Saturday, February 07 — 1h 43m
+
 - 🎥 3.4.2 Video - Radio Aids to Navigation (24:11)
 - 📝 Quiz: Radio Aids to Navigation
 - 🎥 3.4.3 Video - VOR Navigation (42:21)
-
-#### Day 24: Monday, February 09 — 1h 35m
-
 - 🎥 3.4.4 Video - Transponder Operations (23:12)
 - 🎥 4.1.1 Video - Air Traffic Control (ATC) (13:59)
 - 📝 Quiz: Air Traffic Control (ATC)
+
+#### Day 23: Sunday, February 08 — 1h 38m
+
 - 📖 **Reading**: 4.1.2 Take Five: Airspace VFR Weather Minimas (5:00)
 - 🎥 4.1.2 Video - VFR Weather Minima (17:18)
 - 📝 Quiz: VFR Weather Minima
 - 🎥 4.1.3 Video - Airspace Classification System (16:26)
 - 🎥 Video - Top 13 Questions about the Private Pilot Written Exam (21:59)
+- 📚 4.1.3 Transport Canada Airspace Classification (30:00)
+- 📚 4.1.4 VFR Circuit Procedures at Uncontrolled Aerodromes (30:00)
 
 ### Part 4: Air Law & Regulations
 
-#### Day 25: Tuesday, February 10 — 1h 33m
+#### Day 24: Monday, February 09 — 1h 17m
 
-- 📚 4.1.3 Transport Canada Airspace Classification (30:00)
-- 📚 4.1.4 VFR Circuit Procedures at Uncontrolled Aerodromes (30:00)
 - 🎥 4.1.5 Video - VFR and IFR Cruising Altitude Regulation (16:47)
 - 🎥 4.1.6 Video - Special VFR Rules and Procedures (19:51)
-
-#### Day 26: Wednesday, February 11 — 1h 22m
-
 - 🎥 4.1.7 Video - VFR Over-the-Top (10:15)
 - 🎥 4.1.8 Video - A Detailed Look at Mandatory Frequency Areas (26:37)
+
+#### Day 25: Tuesday, February 10 — 1h 22m
+
 - 🎥 4.1.9 Video - Controlled VFR (25:19)
 - 🎥 4.2.1 Video - Air Law - Canadian Aviation Regulations CARs (28:02)
 - 📝 Quiz: Air Law - Canadian Aviation Regulations CARs
-
-#### Day 27: Thursday, February 12 — 1h 6m
-
 - 🎥 4.2.2 Video - Aircraft Documents - Overview and Pilot Requirements (12:12)
 - 🎥 4.2.3 Video - Aircraft Documents - Specific Requirements (8:58)
 - 🎥 4.2.4 Video - Overwater Considerations (19:32)
+
+#### Day 26: Wednesday, February 11 — 1h 20m
+
 - 📚 CARs 602.11 - Aircraft Icing (5:00)
 - 📚 Meteorology - Weather Review (20:00)
-
-#### Day 28: Friday, February 13 — 1h 9m
-
 - 📚 1.8.5 On-going Review: Aviation Investigation Reports (30:00)
 - 🎥 Video - Preparing for your Private Pilot Written Exam (10:05)
 - 🎥 Video - Top 16 Questions about the Private Pilot Flight Test (23:51)
 - 📖 **Reading**: Take Five: Carburetor Icing TP-2228E-38 (5:00)
 
-#### Day 29: Saturday, February 14 — Light Day
+#### Days 27-29: February 12-14 — Light Review Days
 
-All videos complete! Use this day to review any notes or re-watch any challenging sections if needed.
+All videos complete! Use these 3 days before your break to:
+- Review notes and challenging sections
+- Retake any quizzes where you didn't get 100%
+- Preview practice test format
+- Rest and consolidate learning
 
 ---
 
