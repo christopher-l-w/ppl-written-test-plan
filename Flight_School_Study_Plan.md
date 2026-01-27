@@ -196,37 +196,38 @@
 - 🎥 1.7.3 Video - When In Doubt - Wing Icing Contamination - Small Aircraft Program (14:38)
 - 🎥 Video - Aircraft Documents - Maintenance Requirements (13:13)
 - 🎥 1.7.4 Video - Search and Rescue (SAR) (28:22)
-- 🎥 1.8.1 Video - Human Factors (20:26)
-- 📝 Quiz: Human Factors
 
 
 ### Part 1.8: Human Factors & Safety
 
-#### Day 12: Wednesday, January 28 — 1h 23m
-
+#### Day 12: Wednesday, January 28 — 2h 13m
+- 🎥 1.8.1 Video - Human Factors (20:26)
+- 📝 Quiz: Human Factors
 - 📚 1.8.2 Aviation Investigation Report - Incorrect Fuel Type (30:00)
 - 📚 1.8.3 Aviation Investigation Report - Mid-air Collision (30:00)
+- 📚 1.8.4 Aviation Investigation Report - Loss of Control and Collision with Terrain (30:00)
 - 🎥 1.8.6 Video: Visual Illusions (22:39)
 
-#### Day 13: Thursday, January 29 — 1h 16m
+#### Day 13: Thursday, January 29 — 1h 25m
 
-- 📚 1.8.4 Aviation Investigation Report - Loss of Control and Collision with Terrain (30:00)
+- 🎥 2.1a Video - Meteorology Theory - Part 1 of 2 (1:01:35)
 - 🎥 2.1b Video - Meteorology Theory - Part 2 of 2 (23:22)
-- 🎥 2.2 Video - Meteorology Theory - Part 3 of 3 (54:59)
+- 📝 Quiz: Meteorology Theory
 
 
 ### Part 2: Meteorology
 
-#### Day 14: Friday, January 30 — 1h 8m
+#### Day 14: Friday, January 30 — 1h 40m
 
+- 🎥 2.2 Video - Meteorology Theory - Part 3 of 3 (54:59)
 - 📝 Quiz: Meteorology Theory
 - 🎥 2.3.1 Video - Part 1 - Meteorology - Aviation Weather Reports and Forecasts (28:23)
 - 🎥 2.3.2 Video - Part 2 - Meteorology - Aviation Weather Reports and Forecasts (18:12)
 - 🎥 2.3.3 Video - Fog vs. Mist on Aviation Weather Reports (4:19)
+
+#### Day 15: Saturday, January 31 — 2h
+
 - 🎥 2.3.4 Video - Graphical Area Forecasts (GFA) - Overview (24:15)
-
-#### Day 15: Saturday, January 31 — 1h 35m
-
 - 📖 **Reading**: Take Five: Carburetor Icing TP-2228E-38 (5:00)
 - 🎥 2.3.5 Video - Graphical Area Forecasts (GFA) - Clouds and Weather (17:59)
 - 🎥 2.3.6 Video - Graphical Area Forecasts (GFA) - Icing, Turbulence, and Freezing Level Chart (10:53)
