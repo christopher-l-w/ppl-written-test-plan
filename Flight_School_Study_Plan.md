@@ -228,13 +228,14 @@
 #### Day 15: Saturday, January 31 — 2h
 
 - 🎥 2.3.4 Video - Graphical Area Forecasts (GFA) - Overview (24:15)
-- 📖 **Reading**: Take Five: Carburetor Icing TP-2228E-38 (5:00)
 - 🎥 2.3.5 Video - Graphical Area Forecasts (GFA) - Clouds and Weather (17:59)
 - 🎥 2.3.6 Video - Graphical Area Forecasts (GFA) - Icing, Turbulence, and Freezing Level Chart (10:53)
 - 🎥 2.3.7 Video - AIRMETs and SIGMETs (14:03)
 - 🎥 2.3.8 Video - Upper Winds and Temperature Forecast (FD) (12:55)
 - 🎥 2.3.10 Video - Determining Cloud Bases (7:03)
 - 🎥 2.3.11 Video - Determining Freezing Level in Clouds (9:38)
+- 📝 Quiz: Determining Cloud Bases and Freezing Levels
+- 🧠 2.3.10 and 2.3.11 Exercise - Determining Cloud Bases and Freezing LevelsFile
 
 
 ### Part 3: Navigation
@@ -340,7 +341,6 @@
 - 📚 1.8.5 On-going Review: Aviation Investigation Reports (30:00)
 - 🎥 Video - Preparing for your Private Pilot Written Exam (10:05)
 - 🎥 Video - Top 16 Questions about the Private Pilot Flight Test (23:51)
-- 📖 **Reading**: Take Five: Carburetor Icing TP-2228E-38 (5:00)
 
 #### Days 27-29: February 12-14 — Light Review Days
 
